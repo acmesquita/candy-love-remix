@@ -1,5 +1,7 @@
 <h1 align="center">Candy Love</h1>
 
+[![Node.js CI](https://github.com/acmesquita/candy-love-remix/actions/workflows/node.js.yml/badge.svg)](https://github.com/acmesquita/candy-love-remix/actions/workflows/node.js.yml)
+
 ![Peek 2022-02-18 17-31](https://user-images.githubusercontent.com/15862643/154757076-40049d94-d78b-47a7-a6f5-fb0cb8bf1c6f.gif)
 
 
