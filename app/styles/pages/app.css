@@ -1,0 +1,72 @@
+.mainWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #f2f2f2;
+  height: 100vh;
+}
+
+.mainWrapper > a {
+  text-decoration: none;
+}
+
+.title {
+  font-size: 72px;
+}
+
+.footer {
+  color: #f2f2f2;
+}
+
+.container {
+  width: 100vw;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #f2f2f2;
+  font-size: 48px;
+  text-align: center;
+  padding: 8px 16px;
+  position: relative;
+
+  cursor: pointer;
+}
+
+.id {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  font-size: 16px;
+}
+
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+  color: #373a36;
+}
+.green {
+  background-color: green;
+}
+.purple {
+  background-color: purple;
+}
+.blue {
+  background-color: blue;
+}
+.orange {
+  background-color: orange;
+  color: #373a36;
+}
+.pink {
+  background-color: pink;
+  color: #373a36;
+}
+.lightcoral {
+  background-color: lightcoral;
+  color: #1e201d;
+}

@@ -1,0 +1,12 @@
+node_modules
+
+.cache
+.vercel
+.output
+.swc
+
+/build/
+/public/build
+/api/index.js
+
+coverage
