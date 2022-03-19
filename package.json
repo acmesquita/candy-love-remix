@@ -39,6 +39,7 @@
     "dev": "cross-env NODE_ENV=development remix dev",
     "test": "jest --watchAll --passWithNoTests",
     "test:ci": "jest",
-    "test:cypress:open": "cypress open"
+    "test:cy:open": "cypress open",
+    "test:cy": "cypress run"
   }
 }
