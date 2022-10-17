@@ -41,4 +41,29 @@ export const listItems: Item[] = [
     color: 'lightcoral',
     describe: 'Conta uma viagem inesquecível ou a dos sonhos.'
   },
+    {
+    id: 9,
+    color: 'green',
+    describe: 'Conta um ponto turistico da sua cidade.'
+  },
+  {
+    id: 10,
+    color: 'pink',
+    describe: 'Se pudesse voltar para um momento do seu passado, qual seria?'
+  },
+  {
+    id: 11,
+    color: 'orange',
+    describe: 'Do que você mais sente saudades da sua infância?'
+  },
+  {
+    id: 12,
+    color: 'green',
+    describe: 'O que pode facilmente colocar um sorriso no seu rosto?'
+  },
+  {
+    id: 13,
+    color: 'blue',
+    describe: 'Qual hobby você gostaria de começar?'
+  },
 ]
